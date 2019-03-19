@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SettingsViewController.swift
 //  ComprasUSA
 //
 //  Created by Gabriel Carvalho Guerrero on 19/03/19.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
     }
-
-
+    
 }
-
