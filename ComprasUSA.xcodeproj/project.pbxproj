@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F2894CBF2241541700F93576 /* TaxesCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2894CBE2241541700F93576 /* TaxesCalculator.swift */; };
+		F2894CC1224155F700F93576 /* UIViewController+TaxcesCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2894CC0224155F700F93576 /* UIViewController+TaxcesCalculator.swift */; };
 		F2D8D4F522411E0500F76B54 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D8D4F422411E0500F76B54 /* AppDelegate.swift */; };
 		F2D8D4F722411E0500F76B54 /* ShoppingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D8D4F622411E0500F76B54 /* ShoppingViewController.swift */; };
 		F2D8D4FA22411E0500F76B54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2D8D4F822411E0500F76B54 /* Main.storyboard */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F2894CBE2241541700F93576 /* TaxesCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaxesCalculator.swift; sourceTree = "<group>"; };
+		F2894CC0224155F700F93576 /* UIViewController+TaxcesCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+TaxcesCalculator.swift"; sourceTree = "<group>"; };
 		F2D8D4F122411E0500F76B54 /* ComprasUSA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ComprasUSA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2D8D4F422411E0500F76B54 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2D8D4F622411E0500F76B54 /* ShoppingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 			children = (
 				F2D8D4F422411E0500F76B54 /* AppDelegate.swift */,
 				F2D8D4F622411E0500F76B54 /* ShoppingViewController.swift */,
+				F2894CC0224155F700F93576 /* UIViewController+TaxcesCalculator.swift */,
+				F2894CBE2241541700F93576 /* TaxesCalculator.swift */,
 				F2D8D4F822411E0500F76B54 /* Main.storyboard */,
 				F2F52E972241274C00DBC1EB /* SettingsViewController.swift */,
 				F2F52E992241275A00DBC1EB /* TaxesViewController.swift */,
@@ -264,6 +270,8 @@
 			files = (
 				F2F52E9A2241275A00DBC1EB /* TaxesViewController.swift in Sources */,
 				F2D8D4F722411E0500F76B54 /* ShoppingViewController.swift in Sources */,
+				F2894CC1224155F700F93576 /* UIViewController+TaxcesCalculator.swift in Sources */,
+				F2894CBF2241541700F93576 /* TaxesCalculator.swift in Sources */,
 				F2D8D4F522411E0500F76B54 /* AppDelegate.swift in Sources */,
 				F2F52E982241274C00DBC1EB /* SettingsViewController.swift in Sources */,
 			);
